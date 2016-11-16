@@ -1,9 +1,9 @@
 ---
 layout: home
 ---
-# DSA {Chapter Name}
+# DSA San Francisco
 
-DSA {Chapter Name} is a chapter of the [Democratic Socialists of America](http://dsausa.org), the largest socialist organization in the USA. Our members are building progressive movements for social change in {Region} while establishing an openly democratic socialist presence in {Area} communities and politics.
+DSA San Francisco is a chapter of the [Democratic Socialists of America](http://dsausa.org), the largest socialist organization in the USA. Our members are building progressive movements for social change in San Francisco while establishing an openly democratic socialist presence in the Bay Area communities and politics.
 
 Democratic Socialists believe that both the economy and society should be run democratically—to meet public needs, not to make profits for a few.
 
